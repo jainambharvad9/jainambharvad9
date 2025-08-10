@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on: A music streaming web app using Laravel + **(SoundCloud API && Spotify API)**  
+- 🔭 I’m currently working on: A Coolage Management Systems web Portal using ASP.NET + **(Perfect UI/Design,Admin LTO)**  
 - 🌱 I’m currently learning: **Laravel Advanced Features**, **Java**, and **Generative AI**  
 - 👯 I’m looking to collaborate on: **Open-source projects**, **Web development**, or anything innovative  
 - 💬 Ask me about: **Web development**, **Python**, **Laravel**, or **Project ideas**  
