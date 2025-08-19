@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on: **Open-source projects**, **Web development**, or anything innovative  
 - 💬 Ask me about: **Web development**, **Python**, **Laravel**, or **Project ideas**  
 - 📫 How to reach me:  
-  📧 jainamsaraiya9@gmail.com  
-  📱 +91 99981 73929  
   🌐 [LinkedIn](https://www.linkedin.com/in/jainam-bharvad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/jainambharvad9)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love turning ideas into interactive websites & I'm a fan of tech memes 🤓
